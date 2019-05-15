@@ -36,5 +36,5 @@ class Comparision():
 
 if __name__ == '__main__':
     obj = Comparision()
-    x = obj.comp()
-    print(x)
+    res = obj.comp()
+    print(res)
